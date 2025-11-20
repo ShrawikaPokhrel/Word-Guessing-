@@ -9,8 +9,13 @@ Working of the game:
 4.The game ends when the player either guesses the word or runs out of attempts.
 ### 🖥️ Sample Output
 Current word: _ _ _ _ _
-Guess a letter: c
+
+Guess a letter:  c
+
 Great guess!
+
 Current word:  _ _ _ _c
+
 Guess a letter: z
+
 Wrong guess! Attempts left: 4
