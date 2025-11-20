@@ -1,6 +1,8 @@
 # Word-Guessing Game 📝 (only for practice)
 This is a simple word-guessing game in Python. This is merely a practice project that uses basic Python concepts, loops, conditionals, and list handling.
+
 Working of the game:
+
 1.There is a word bank for selected words where a word is chosen randomly.
 2.The player guesses the word one by one.
 3.Correctly guessed letters are revealed in their positions.
